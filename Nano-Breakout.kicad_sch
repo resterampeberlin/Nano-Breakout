@@ -884,7 +884,7 @@
     (property "Value" "Arduino_Nano_v3.x" (id 1) (at 147.4344 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Module:Arduino_Nano" (id 2) (at 142.875 99.695 0)
+    (property "Footprint" "Nano:Arduino_Nano" (id 2) (at 142.875 99.695 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf" (id 3) (at 142.875 99.695 0)
@@ -1149,7 +1149,7 @@
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
     (path "/3955bb7e-0cab-4a30-88b1-ae5ad69932b2"
-      (reference "A101") (unit 1) (value "Arduino_Nano_v3.x") (footprint "Module:Arduino_Nano")
+      (reference "A101") (unit 1) (value "Arduino_Nano_v3.x") (footprint "Nano:Arduino_Nano")
     )
     (path "/8390c402-6605-414b-b5f9-3b111ad0c236"
       (reference "J101") (unit 1) (value "Conn_01x15") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical")
